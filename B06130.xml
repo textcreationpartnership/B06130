@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the memory of my most honoured friend Sir Jonas Moore, Knight, late surveyor general of His Majesties ordnance and armories.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06130</idno>
+            <idno type="OCLC"> 7892719</idno>
+            <idno type="STC">Wing T1569</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[106]</idno>
+            <idno type="STC">ESTC R23760</idno>
+            <idno type="EEBO-CITATION">99889190</idno>
+            <idno type="PROQUEST">ocm99889190</idno>
+            <idno type="VID">182590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182590)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[106])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the memory of my most honoured friend Sir Jonas Moore, Knight, late surveyor general of His Majesties ordnance and armories.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Harford, at the Angel in Corn-hill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "NAture first rul'd the World by Laws unknown ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moore, Jonas, --  Sir, 1617-1679 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182590:1" rendition="simple:additions"/>
+            <head>TO THE MEMORY Of my moſt Honoured Friend Sir JONAS MOORE, Knight, <hi>Late Surveyor General of His Majeſties Ordnance and Armories.</hi>
+            </head>
+            <lg>
+               <l>NAture firſt rul'd the World by Laws unknown</l>
+               <l>To all the World, but to her ſelf alone;</l>
+               <l>While man knew nothing more then how t'admire,</l>
+               <l>And ſatisfi'd with Wonder, ſought no higher.</l>
+               <l>Then came the Dull Philoſopher, and he</l>
+               <l>Long time eſſay'd with tedious ſcrutinie;</l>
+               <l>But after all, moſt Happy he, and Wife,</l>
+               <l>That knows the hidden Cauſe of things, he cries.</l>
+               <l>The Cauſe of Thunder is but Cloudy Gueſs,</l>
+               <l>And what the dreadful Comet feeds, no leſs.</l>
+               <l>But Demonſtration rules thoſe noble Arts</l>
+               <l>That ſo renown'd Renowned <hi>MOORES</hi> great Parts.</l>
+               <l>The Man, whoſe Genius mounted to the Skie,</l>
+               <l>And fetch'd from thence Infallibilitie.</l>
+               <l>Whoſe Studies ſtill, with Victory repay'd,</l>
+               <l>Scorn'd all reſiſtance which the Myſtery made.</l>
+               <l>Who, with the Charms of powerful Numbers bold,</l>
+               <l>Gave the Sea Laws, and Maſſy Earth Controul'd.</l>
+               <l>For Poiſe and Numbers were the <hi>Solid Root</hi>
+               </l>
+               <l>On which he fix'd his <hi>Archimedean</hi> Foot.</l>
+               <l>The Wandring Sea-man by his <hi>Problems</hi> Taught,</l>
+               <l>Find eaſie now, what long their Toyles had ſought:</l>
+               <l>And Towns ſurrounded by his Skillful care,</l>
+               <l>Contemn the Fury of Induſtrious War.</l>
+               <l>He Soar'd to Heaven, and viewing every part,</l>
+               <l>Search'd all the Spheres, and by a God-like Art,</l>
+               <l>Number'd the Stars, and made them all obey</l>
+               <l>The Powerful Workings of his <hi>Algebra.</hi>
+               </l>
+               <l>While thus his Magazines did <hi>England</hi> ſtore,</l>
+               <l>
+                  <hi>England</hi> Won Honour from her Honour'd <hi>MOORE.</hi>
+               </l>
+               <l>The <hi>Grecian Euclid,</hi> and <hi>Sicilian</hi> Glory,</l>
+               <l>Who check'd the Pride of Bold <hi>Marcellus</hi> fury,</l>
+               <l>Were but the Morning-Stars to her great Sun.</l>
+               <l>Her Sun has <hi>Greece</hi> and <hi>Sicilie</hi> out-ſhone,</l>
+               <l>By Rip'ning what in them was ownly Blown.</l>
+               <l>Such a Diſciple worthily became</l>
+               <l>The Credit of his Maſter <hi>Oughtred</hi>'s Name.</l>
+               <l>He finds himſelf repay'd for all his Pains,</l>
+               <l>While in the Scholars Fame the Maſter reigns.</l>
+               <l>The Payment muſt ſuffice, when men ſhall ſay,</l>
+               <l>'Twas <hi>Oughtred</hi> Taught ſurpaſſing <hi>MOORE</hi> the Way.</l>
+               <l>Let <hi>Euclid</hi> his great <hi>Herigonius</hi> claim,</l>
+               <l>Or Learned <hi>Barrow</hi> chooſe to Imp his Fame;</l>
+               <l>They both to greater <hi>MOORE</hi> muſt yield, and know</l>
+               <l>The Practicks only from his Labours flow.</l>
+               <l>There lies the Publick Uſe; by that we find</l>
+               <l>How much his Studies have oblig'd Man-kind.</l>
+               <l>What though our Sun be Set, there yet return</l>
+               <l>Thoſe Beams which ſtill enlighten from his Urn.</l>
+               <l>The Lord of Day, when once he Sets 'tis true,</l>
+               <l>Black Night all Objects hides from Humane View.</l>
+               <l>But when, like him, the Learned fall, no Nights</l>
+               <l>Can e're extinguiſh their Immortal Lights.</l>
+               <l>Their Works of Heavenly Matter, and their Praiſe</l>
+               <l>Still Flame behind with an Eternal Blaze.</l>
+               <l>'Tis true, our loſs is great, but 'tis in Vain</l>
+               <l>Of Fate in tedious <hi>Diſticks</hi> to Complain;</l>
+               <l>For Mortals muſt deſcend and fill the Grave,</l>
+               <l>Though they be ne're ſo Skilful, ne're ſo Brave.</l>
+               <l>Yet ſince the Learned to the Learned owe</l>
+               <l>The tribute of Remembrance; Let us ſhow</l>
+               <l>Reſpect and Honour to that Sacred Duſt,</l>
+               <l>Which elſe, would call the Learned World unjuſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen to the Virtues of his Mind aſcend,</l>
+               <l>And let him, as he was, himſelf Commend.</l>
+               <l>Record him Juſt, and to his purpoſe True,</l>
+               <l>Sententious <hi>Horace</hi>'s Good man, quite through:</l>
+               <l>A Friend to Friendſhip, without falſe pretence;</l>
+               <l>The Laws obſerver, Loyal to his Prince.</l>
+            </lg>
+            <lg>
+               <l>Then View his <hi>Teleſcope</hi> on <hi>Greenwich-hill,</hi>
+               </l>
+               <l>The ſweet Recluſe of his Celeſtial Skill;</l>
+               <l>And there behold his Brave and Generous Heart,</l>
+               <l>So free for the ſupport of Noble Art.</l>
+               <l>Where, like the Induſtrious <hi>Dane</hi> in <hi>Huena</hi> Iſle,</l>
+               <l>So Famous for his own Ingenious <hi>Pile</hi>;</l>
+               <l>No ſooner was the Sun's back turn'd, but he</l>
+               <l>Fully Survey'd all Heavens <hi>Geometrie,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Famous <hi>Archimedes</hi> much had found,</l>
+               <l>To ſet his Orbs of Cryſtal going round:</l>
+               <l>Him Studious <hi>Tychobrahe</hi> far out-vy'd,</l>
+               <l>And left his Vaſter Globe for <hi>Denmark</hi>'s Pride:</l>
+               <l>But greater <hi>MOORE,</hi> new Secrets to diſplay,</l>
+               <l>Practiz'd on Heaven it ſelf, that we may ſay,</l>
+               <l>The Heavens themſelves permitted him to Dye,</l>
+               <l>So to prevent his farther Scrutinie.</l>
+            </lg>
+            <lg>
+               <l>The World, not for the World, would be without</l>
+               <l>Thoſe <hi>Rules</hi> and <hi>Methods,</hi> which he late found out;</l>
+               <l>To dive into the Secret Depths of <hi>Number</hi>;</l>
+               <l>
+                  <hi>Number,</hi> that was the Ancients worſhip'd wonder:</l>
+               <l>Who, had they known his <hi>Algebra</hi>'s, in time</l>
+               <l>Would have converted all their Vows to him.</l>
+               <l>The <hi>Genius</hi> of all Arts, whoſe Studies made</l>
+               <l>A Publick Reſormation for each Trade.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Horologer</hi> by his Pains Improv'd,</l>
+               <l>As if his Wheels the Heavenly Body mov'd,</l>
+               <l>Meaſures Times ſlight with ſo much Skill from Him,</l>
+               <l>That we behold with Pleaſure, loſs of Time:</l>
+               <l>We ſee it fly, yet gladly feed our Eyes,</l>
+               <l>To ſee how pleaſantly away it flyes.</l>
+            </lg>
+            <lg>
+               <l>The Studious <hi>Engineer</hi> ſhort time beſtows</l>
+               <l>Upon his modern <hi>Rules,</hi> and perfect grows;</l>
+               <l>As if it only were enough to look,</l>
+               <l>And then to wear the Models of his <hi>Book</hi>;</l>
+               <l>While from their Platforms ranged <hi>Guns</hi> proclaim</l>
+               <l>The Scholar's Skill, but more the Maſter's Fame;</l>
+               <l>Since his Proportion gave them ſtrength and form,</l>
+               <l>Which Peace admires, and War can never harm.</l>
+            </lg>
+            <lg>
+               <l>But above all; his <hi>Prince</hi> full ſoon obſerv'd</l>
+               <l>His learned Parts, and as his Parts deſerv'd,</l>
+               <l>Plac'd him within his Proper <hi>Spherick</hi> Height,</l>
+               <l>And gave him Honour too, to ſhine more Bright.</l>
+               <l>His Charge was great, and his Diſcharge as great;</l>
+               <l>Whom ne're Complaint purſu'd, nor Check of State:</l>
+               <l>Nor could the open Month of falſe Report</l>
+               <l>Do his untainted Reputation hurt;</l>
+               <l>For this our Mighty <hi>Neptune</hi> choſe ſo fair,</l>
+               <l>And gave his little <hi>Tritons</hi> to his care.</l>
+               <l>Thoſe Striplings, which his Royal Bounty Breeds,</l>
+               <l>To reap the Harveſt of their future Deeds:</l>
+               <l>And for whoſe ſake great <hi>MOORE</hi> did late Compile</l>
+               <l>Thoſe Happy Treaſures of our Sea-girt Iſle.</l>
+               <l>Where the known Earth in Lovely <hi>Maps</hi> Survey'd,</l>
+               <l>And wider Ocean in <hi>Sea Cards</hi> Diſplay'd.</l>
+               <l>The Generous Youth with Noble Thoughts inflame,</l>
+               <l>T'excel <hi>Columbus</hi> and <hi>Magellan</hi>'s Fame.</l>
+            </lg>
+            <lg>
+               <l>Theſe things Conſider'd by a Gen'rous Prince,</l>
+               <l>The Mighty Monarch, touch'd with a deep Sence</l>
+               <l>Of his great Loſs, yet Studious of repair,</l>
+               <l>The Fathers Truſt gives back unto his Heir:</l>
+               <l>For ſince my <hi>MOORE</hi> is gone, l'le raiſe, ſaid He,</l>
+               <l>My ſelf, a Living Monument to Him of Thee.</l>
+            </lg>
+            <lg>
+               <l>Thus Dy'd the Mirror of our Age, and thus</l>
+               <l>Doubly on Earth he lives again with us;</l>
+               <l>Engaging Doubly all that here Survive,</l>
+               <l>By Living Works, and by a Son alive.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>R. Harford,</hi> at the <hi>Angel</hi> in <hi>Corn-hill.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
